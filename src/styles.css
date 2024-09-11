@@ -1,0 +1,16 @@
+.year-display {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.poem-excerpt {
+    margin-top: 20px;
+    text-align: center;
+    font-style: italic;
+}
+
+.poem-excerpt h3 {
+    font-weight: bold;
+}

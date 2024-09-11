@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Interactive Great Migration Map - Arjun Rao
+An interactive map made for my Modern World Fiction visual project. Everything below came from Node.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
